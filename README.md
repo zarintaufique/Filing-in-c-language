@@ -4,7 +4,6 @@
 and prints the number of occurrences of substring in the given file on the console. If the
 file does not exist, print some error on the screen.
 
-
 2) Write a program to manage record of student registration on file. Enter your details and
 the details of two of your classmates. Roll no, Name and Email should be saved as
 student details. Example Record:
